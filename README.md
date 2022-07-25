@@ -1,53 +1,78 @@
 ![Banner](materiales/banner.png)
-# Introducción a Partículas, Astrofísica y Cosmología - Segundo semestre de 2018
+
+# [Astrofísica y Cosmología (B5300) y Física IVB (B5330)](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/Plan%20de%20Estudios%20-%20Profesorado%20de%20Ensenanza%20en%20Nivel%20Medio%20y%20Superior%20en%20Fisica%20-%20Sede%20Andina.pdf) 
+
+Segundo semestre de 2019
 
 **Asignatura del cuarto año de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
-Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
+**Dr. Hernán Asorey**
+***Departamento Física Médica, Centro Atómico Bariloche, Av. E. Bustillo 9500, (8400) San Carlos de Bariloche, Argentina***
 
-## [Clases](https://github.com/asoreyh/unrn-ipac/tree/master/clases) ##
+### [Programa de la materia](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/PROGRAMA%20FISICA%20IVB%20-%20PLAN%202016%20-%202019-2021.pdf)
 
-## [Guías de ejercicios](https://github.com/asoreyh/unrn-ipac/tree/master/guias) ##
+### [Clases](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases)
 
-## [Materiales](https://github.com/asoreyh/unrn-ipac/tree/master/materiales) ##
+### [Guías de ejercicios](https://gitlab.com/asoreyh/unrn-ipac/tree/master/guias)
 
-# Objetivo
+### [Materiales](https://gitlab.com/asoreyh/unrn-ipac/tree/master/materiales)
 
-Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula de escuelas medias.
 
-# Contenidos mínimos
+## Fundamentación
 
-Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para este curso son los siguientes: 
+Representa un intento por exponer aspectos de la física que normalmente no se presentan en cursos de cuarto año de profesorados en física, con el objeto de brindar a los futuros docentes conocimientos y herramientas que les permitan abordar en la escuela media, temas actuales. La física de este curso incluye tópicos de la física contemporánea con contenidos que desde que se tiene conocimiento fascinan e interesan al hombre como el del origen del universo, el funcionamiento y el destino del Universo. Se introducen contenidos de física moderna como el modelo estándar de las partículas fundamentales, la radiactividad,  la relatividad especial y general y el modelo estándar cosmológico (Plan vigente).
 
-*Estrellas y galaxias. Evolución de las estrellas nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del universo* 
+## Propósitos de la asignatura
+
+Construir juntos con los estudiantes los modelos que rigen al universo, y su importancia, y los efectos indirectos que pueden observarse en el mundo cotidiano. Que los estudiantes comprendan como la física abarca desde los sucesos que rigen las interacciones fundamentales hasta la estructura del Universo a las escalas más grandes, produciendo herramientas para facilitar la implementación en el aula de escuelas medias.
+
+## Contenidos mínimos
+
+Los contenidos mínimos establecidos por el [Plan de Estudios vigente de la carrera](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/Plan%20de%20Estudios%20-%20Profesorado%20de%20Ensenanza%20en%20Nivel%20Medio%20y%20Superior%20en%20Fisica%20-%20Sede%20Andina.pdf) para este curso son los siguientes: 
+
+*Partículas fundamentales, astrofísica y cosmología- Partículas fundamentales y sus interacciones: leptones, hadrones y partículas mensajeras. Antipartículas. El modelo estándar. Aceleradores de partículas. Estrellas y galaxias. Evolución de las estrellas en nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del Universo*
+
+## Propuesta metodológica
+
+Las clases serán interactivas, con amplio espacio para la discusión de los conceptos claves de la materia. Se realizarán demostraciones y prácticas de laboratorio con los equipos disponibles y con elementos de bajo costo. En todos los casos se abordará la problemática planteada desde un modelo constructivista. Las clases incluirán instancias de trabajo virtual para prácticas de incorporación de herramientas de tecnologías de información y comunicación (TIC) en la enseñanza de las ciencias.
 
 # Programa
 
+Se ajusta al [Calendario Académico de la UNRN 2019-2020 (Res CSDEyVE 044/2018)](https://www.unrn.edu.ar/archivos/noticia/487/CALENDARIO%20ACADEMICO%20UNRN%202019%202020.pdf)
+
 ## Primer módulo
-**9 encuentros: del Jueves 08 de Agosto al Jueves 04 de Octubre**
+**9 encuentros: del Miércoles 07 de Agosto de 2019 al Miércoles 02 de Octubre de 2019**
 
-### [Unidad 1: Todo es relativo](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u01)
-**4 encuentros: desde el Jueves 08/Ago al Jueves 30/Ago**
+### [Unidad 1: Todo es relativo](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u01)
+**4 encuentros: desde el Miércoles 07/Ago/19 al Miércoles 28/Ago/19**
 
-Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales.
+Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales. Hadrones, leptones y bosones mensajeros.
 
-### [Unidad 2: Calido y Frío](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u02)
-**5 encuentros desde el Jueves 06/Sep al Jueves 04/Oct**
+***Entrega guía 01: Viernes 06/Sep/2019 23:59***
+
+### [Unidad 2: Calido y Frío](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u02)
+**5 encuentros desde el Miércoles 04/Sep/19 al Miércoles 02/Oct/19**
 
 Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo
 
-## Segundo módulo
-**7 encuentros: del Jueves 11/Oct al Jueves 22/Nov**
+***Entrega guía 02: Viernes 11/Oct/2019 23:59***
 
-### [Unidad 3: No es lo que se ve, sino lo que se palpa](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u03)
-**3 encuentros desde el Jueves 11/Oct al Jueves 25/Oct**
+## Segundo módulo
+**7 encuentros: del Miércoles 09/Oct/19 al Miércoles 20/Nov/19**
+
+### [Unidad 3: No es lo que se ve, sino lo que se palpa](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u03)
+**3 encuentros desde el Miércoles 09/Oct/19 al Miércoles 23/Oct/19**
 
 Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
 
-### [Unidad 4: Allá lejos y hace tiempo](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u04)
-**4 encuentros desde el Jueves 01/Nov al Jueves 22/Nov**
+***Entrega guía 03: Viernes 01/Nov/2019 23:59***
+
+### [Unidad 4: Allá lejos y hace tiempo](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u04)
+**4 encuentros desde el Miércoles 30/Oct/19 al Miércoles 20/Nov/19**
 
 El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
+
+***Entrega guía 04: Miércoles 20/Nov/2019 21:00 (Presentación Oral en Clase)***
 
 ## Bibliografía obligatoria y complementaria
 
@@ -59,9 +84,21 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * Física de las noches estrelladas: Astrofísica, Relatividad y Cosmología; Eduardo Battaner; Tusquets Editores; 2011; ISBN: 9788483833421
 * Qué es la vida?; Erwin Schrödinger; Salamanca; 2005.
 * Juego [A slower speed of light](http://gamelab.mit.edu/games/a-slower-speed-of-light/), una visión de como se vería el mundo a velocidad cercanas a la velocidad de la luz; MIT Game Lab; 2013
-* [Stellarium](https://stellarium.org/es/), un planetario de código abierto, multiplataforma y gratuito, 2018
+* [Stellarium](https://stellarium.org/es/), un planetario de código abierto, multiplataforma y gratuito, 2019
 
 ### Evolución de la cursada
+
+### Horarios:
+* Miércoles 19:00 a 23:00.
+* *Lunes 19:00 a 23:00 (Sólo presencial, una vez al mes)*
+
+### Entrega de ejercicios seleccionados:
+* Guía 01: 06/09/2019 23:59:59, ejercicios a definir 
+* Guía 02: 11/10/2019 23:59:59, ejercicios a definir
+* Guía 03: 01/11/2019 23:59:59, ejercicios a definir 
+* Guía 04: 20/11/2019 21:00:00, presentación oral en clase, tema a elección sobre lista propuesta
+
+<!-- 
 
 * 01/16, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
 * 02/16, U01C02V, 29/08/2018: Cinemática relativista: postulados de la Relatividad Especial, Transformaciones de Lorentz, Regla de suma de velocidades, contracción espacial y dilatación temporal   
@@ -80,7 +117,17 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 15/16, U04C01V, 14/11/2018: El big bang y cosmología inflacionaria: repaso y significado de la curvatura del espacio-tiempo, efecto doppler, efecto doppler relativista, corrimiento al rojo, medición del corrimiento al rojo de galaxias lejanas, la Ley de Hubble. 
 * 16/16, U04C02V, 21/11/2018: La expansión del Universo. Interpretación de la expansión. Teorías alternativas. El fondo de radiación de microondas: descubrimiento y significado. Comportamiento de la materia y la energía frente a la expansión. Densidad crítica. Observaciones cosmológicas. Materia y energía oscuras. Expansión acelerada.  
 * 17/16, U04C03V, 24/11/2018: Evolución térmica del Universo: temperatura y tiempo, procesos, recombinación, nucleosínstesis primogenia, modelo cosmológico, evolución del universo: pasado, presente y futuro. Eras cosmológicas. El fin? - Charlas de cierre.  
+-->
 
-#### (C) 2016, 2017, 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
+### Sobre las clases:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descárguelo siguiendo este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. 
+
+En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. 
+
+Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
+
+### Licencia
+**Física IV B (IPAC: Introducción a Partículas, Astrofísica y Cosmología)**, (c) por Hernán Asorey, 2016, 2017, 2018, 2019.
+<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+<br />Este trabajo se distribuye en forma gratuita bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>. Debería haber recibido una copia de la licencia junto con este trabajo [cc-by-nc-sa-40-legalcode.txt](https://gitlab.com/asoreyh/unrn-ipac/blob/master/cc-by-nc-sa-40-legalcode.txt). En su defecto, visite <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a>.
