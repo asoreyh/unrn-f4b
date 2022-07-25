@@ -1,22 +1,16 @@
 ![Banner](materiales/banner.png)
 
-# [Astrofísica y Cosmología (B5300) y Física IVB (B5330)](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/Plan%20de%20Estudios%20-%20Profesorado%20de%20Ensenanza%20en%20Nivel%20Medio%20y%20Superior%20en%20Fisica%20-%20Sede%20Andina.pdf) 
+# Física IV B (B5330) - Astrofísica y Cosmología (B5300) 
 
-Segundo semestre de 2019
-
-**Asignatura del cuarto año de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
+**Asignatura de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
 **Dr. Hernán Asorey**
 ***Departamento Física Médica, Centro Atómico Bariloche, Av. E. Bustillo 9500, (8400) San Carlos de Bariloche, Argentina***
 
-### [Programa de la materia](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/PROGRAMA%20FISICA%20IVB%20-%20PLAN%202016%20-%202019-2021.pdf)
+[[_TOC_]]
 
-### [Clases](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases)
-
-### [Guías de ejercicios](https://gitlab.com/asoreyh/unrn-ipac/tree/master/guias)
-
-### [Materiales](https://gitlab.com/asoreyh/unrn-ipac/tree/master/materiales)
-
+## Objetivos
+Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula de escuelas medias
 
 ## Fundamentación
 
@@ -24,13 +18,13 @@ Representa un intento por exponer aspectos de la física que normalmente no se p
 
 ## Propósitos de la asignatura
 
-Construir juntos con los estudiantes los modelos que rigen al universo, y su importancia, y los efectos indirectos que pueden observarse en el mundo cotidiano. Que los estudiantes comprendan como la física abarca desde los sucesos que rigen las interacciones fundamentales hasta la estructura del Universo a las escalas más grandes, produciendo herramientas para facilitar la implementación en el aula de escuelas medias.
+Construir junto con los y las estudiantes los modelos que rigen al universo, y su importancia, y los efectos indirectos que pueden observarse en el mundo cotidiano. Que los y los estudiantes comprendan como la física abarca desde los sucesos que rigen las interacciones fundamentales hasta la estructura del Universo a las escalas más grandes, produciendo herramientas para facilitar la implementación en el aula de escuelas medias.
 
 ## Contenidos mínimos
 
 Los contenidos mínimos establecidos por el [Plan de Estudios vigente de la carrera](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/Plan%20de%20Estudios%20-%20Profesorado%20de%20Ensenanza%20en%20Nivel%20Medio%20y%20Superior%20en%20Fisica%20-%20Sede%20Andina.pdf) para este curso son los siguientes: 
 
-*Partículas fundamentales, astrofísica y cosmología- Partículas fundamentales y sus interacciones: leptones, hadrones y partículas mensajeras. Antipartículas. El modelo estándar. Aceleradores de partículas. Estrellas y galaxias. Evolución de las estrellas en nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del Universo*
+Partículas fundamentales, astrofísica y cosmología- Partículas fundamentales y sus interacciones: leptones, hadrones y partículas mensajeras. Antipartículas. El modelo estándar. Aceleradores de partículas. Estrellas y galaxias. Evolución de las estrellas en nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del Universo
 
 ## Propuesta metodológica
 
@@ -38,96 +32,99 @@ Las clases serán interactivas, con amplio espacio para la discusión de los con
 
 # Programa
 
-Se ajusta al [Calendario Académico de la UNRN 2019-2020 (Res CSDEyVE 044/2018)](https://www.unrn.edu.ar/archivos/noticia/487/CALENDARIO%20ACADEMICO%20UNRN%202019%202020.pdf)
+Se ajusta al [Calendario Académico de la UNRN 2020-2021](https://www.unrn.edu.ar/section/47/calendario-academico.html)
 
 ## Primer módulo
-**9 encuentros: del Miércoles 07 de Agosto de 2019 al Miércoles 02 de Octubre de 2019**
+**8 encuentros: del Miércoles 05 de Agosto de 2020 al Miércoles 23 de Setiembre de 2020**
 
-### [Unidad 1: Todo es relativo](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u01)
-**4 encuentros: desde el Miércoles 07/Ago/19 al Miércoles 28/Ago/19**
+### [Unidad 1: Lo más pequeño](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u01)
+**4 encuentros: desde el Miércoles 05/Ago/20 al Miércoles 26/Ago/20**
 
-Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales. Hadrones, leptones y bosones mensajeros.
+Dinámica Relativista. Física de partículas. Ley de Planck. Partículas fundamentales: leptones, hadrones, bosones mensajeros. El modelo estándar. Interacciones fundamentales. Simetrías y leyes de conservación
 
-***Entrega guía 01: Viernes 06/Sep/2019 23:59***
+***Trabajo de la unidad: tópicos de física de partículas. Entrega : Viernes 04/Sep/2020***
 
-### [Unidad 2: Calido y Frío](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u02)
-**5 encuentros desde el Miércoles 04/Sep/19 al Miércoles 02/Oct/19**
+### [Unidad 2: Escalas intermedias](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u02)
+**4 encuentros desde el Miércoles 02/Sep/20 al Miércoles 23/Sep/20**
 
-Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo
+Estrellas. Modelos politrópico. La fusión nuclear estelar. Clasificación estelar. Diagrama H-R. Evolución estelar. Nebulosas. Planetas y exoplanetas. El sistema Solar. Exoplanetas. Vida en el Universo: Astrobiología.
 
-***Entrega guía 02: Viernes 11/Oct/2019 23:59***
+***Trabajo de la unidad: Astronomía observacional: sistemas de coordenadas y mapas estelares. Viernes 02/Oct/2020***
 
 ## Segundo módulo
-**7 encuentros: del Miércoles 09/Oct/19 al Miércoles 20/Nov/19**
+**8 encuentros: del Miércoles 30/Sep/20 al Miércoles 18/Nov/20**
 
-### [Unidad 3: No es lo que se ve, sino lo que se palpa](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u03)
-**3 encuentros desde el Miércoles 09/Oct/19 al Miércoles 23/Oct/19**
+### [Unidad 3: Escalas grandes](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u03)
+**4 encuentros desde el Miércoles 30/Sep/20 al Miércoles 21/Oct/20**
 
-Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
+Relatividad General. Introducción y conceptos básicos. Solución de Schwarzschild. Objetos compactos: enanas blancas, estrellas de neutrones y agujeros negros. Formación de estructuras. Galaxias: Modelos y formación. GalaxyZoo. Galaxias de Núcleos activos. Clasificación. Formación de estructuras. Corrimiento al rojo y el universo en expansión.
 
-***Entrega guía 03: Viernes 01/Nov/2019 23:59***
+***Trabajo de la unidad: Midiendo distancias en el Universo. Entrega Viernes 30/Oct/2020***
 
-### [Unidad 4: Allá lejos y hace tiempo](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u04)
-**4 encuentros desde el Miércoles 30/Oct/19 al Miércoles 20/Nov/19**
+### [Unidad 4: Lo más grande](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u04)
+**4 encuentros desde el Miércoles 28/Oct/20 al Miércoles 18/Nov/20**
 
-El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
+Modelo cosmológico estándar. El fondo de microondas. Modelo de Friedman-Lemaître-Robertson-Walker. El Big Bang. Modelo de Alpher, Bethe & Gamow. Modelo LCDM. Historia térmica del universo. Épocas térmicas. Primeros segundos del universo. Evolución futura del universo. ¿El fin...?
 
-***Entrega guía 04: Miércoles 20/Nov/2019 21:00 (Presentación Oral en Clase)***
+***Trabajo de la unidad: Tema a elección. Charla 18/Nov/2020***
 
 ## Bibliografía obligatoria y complementaria
 
-* An Introduction to Modern Astrophysics; Carrol Bradley and Ostille Dale; 2nd Edition; Addison Wesley; 2006; ISBN 978-0805304022
+* An Introduction to Modern Astrophysics; Carrol Bradley and Ostille Dale; 2nd Edition; Addison Wesley; 2006; ISBN 9780805304022
+* Introduction to Elementary Particles; David Griffiths; 2nd Revised Edition; Wiley-VCH; 2008; ISBN 9783527406012
 * El Significado de la Relatividad; Albert Einstein; S.L.U. Espasa; 1921; ISBN 9788467029710
 * Física Universitaria Vol 2, Cap 37; Hugh Young y Roger Freedman (Sears y Semansky); 13ma Edición; Addison Wesley; 2015; ISBN 9786073221245
-* The Nature of Space and Time; Stephen Hawkings and Roger Penrose; Princeton University Press; 2010; ASIN: B003VPWWC0
+* The Nature of Space and Time; Stephen Hawkings and Roger Penrose; Princeton University Press; 2010; ASIN: 
 * Breve Historia del Tiempo; Stephen Hawkings; Paidos; 1988; ISBN 9786079377373
 * Física de las noches estrelladas: Astrofísica, Relatividad y Cosmología; Eduardo Battaner; Tusquets Editores; 2011; ISBN: 9788483833421
-* Qué es la vida?; Erwin Schrödinger; Salamanca; 2005.
+* ¿Qué es la vida?; Erwin Schrödinger; Salamanca; 2005.
 * Juego [A slower speed of light](http://gamelab.mit.edu/games/a-slower-speed-of-light/), una visión de como se vería el mundo a velocidad cercanas a la velocidad de la luz; MIT Game Lab; 2013
 * [Stellarium](https://stellarium.org/es/), un planetario de código abierto, multiplataforma y gratuito, 2019
 
-### Evolución de la cursada
+## Evolución de la cursada
 
 ### Horarios:
 * Miércoles 19:00 a 23:00.
-* *Lunes 19:00 a 23:00 (Sólo presencial, una vez al mes)*
 
 ### Entrega de ejercicios seleccionados:
-* Guía 01: 06/09/2019 23:59:59, ejercicios a definir 
-* Guía 02: 11/10/2019 23:59:59, ejercicios a definir
-* Guía 03: 01/11/2019 23:59:59, ejercicios a definir 
-* Guía 04: 20/11/2019 21:00:00, presentación oral en clase, tema a elección sobre lista propuesta
+* Primera entrega: 04/Sep/20
+* Segunda entrega: 02/Oct/20
+* Tercera entrega: 30/Oct/20
+* Cuarta entrega: 18/Nov/20, presentación oral en clase
 
-<!-- 
+### Clases:
 
-* 01/16, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
-* 02/16, U01C02V, 29/08/2018: Cinemática relativista: postulados de la Relatividad Especial, Transformaciones de Lorentz, Regla de suma de velocidades, contracción espacial y dilatación temporal   
-* 03/16, U01C03P, 05/09/2018: Dinámica relativista: tiempo propio, principios de conservación relativistas, masa, energía y cantidad de movimiento, invariantes relativistas. 
-* 04/16, U01C04P, 06/09/2018: Relatividad y cuántica, el mar de dirac, materia y antimateria. El Universo Radiactivo: procesos radiactivos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
-* 05/16, U01C05V, 12/09/2018: Decaimientos alfa, beta y gamma. Conservación de la energía en el decaimiento beta. El descubrimiento del neutrino. Repaso Unidad 01.
-* 06/16, U02C01V, 26/09/2018: Astronomía de posición, 1ra parte: sistemas de coordenadas: cordenadadas acimutales, coordenadas ecuatoriales horarias, coordenadas acimutales.
-* 07/16, U02C02V, 03/10/2018: Astronomía de posición, 2da parte: Cartas celestes, Planetarios, Magnitudes estelares: escala moderna, magnitud aparente y magnitud absoluta
-* 08/16, U02C03P, 10/10/2018: El cielo nocturno, trabajo con [Stellarium](https://stellarium.org/es/).
-* 09/16, U02C04P, 11/10/2018: Estrellas. El Sol como referencia. Estrellas como cuerpo negro. Color y temperatura. Espectros estelares. Clasificación espectral. Luminosidad. Relación masa-luminosidad. Betelgeuse y tamaño estelar.
-* 10/16, U02C05V, 17/10/2018: Estrellas: Diagrama Hertzprung-Russel. La secuencia principal. Estrellas Wolf-Rayet, subestrellas y enanas marrones. Estructura interna. El pico de Gamow. Fusión nuclear. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. 
-* 11/16, U02C06V, 24/10/2018: Estrellas: evolución estelar. Procesos de fusión. Presión de radiación. Evolución estelar. Límite de Chandrasekhar. Muerte estelar: enanas blancas, superovas, estrellas de neutrones y agujeros negros.
-* 12/16, U02C07V, 25/10/2018: Leyes de Kepler. El Sistema Solar. Órbitas planetarias. Temperatura orbital. Zona habitable. Exoplanetas. Vida en el Universo. 
-* 13/16, U03C01V, 31/10/2018: La estructura a gran escala del Universo: Galaxias. La vía Láctea, caracteríticas observacionales. Andrómeda. La forma de las galaxias. Colisión de Galaxias. Clasifiación. El GalaxyZoo. El cúmulo Local. Cúmulos y Supercúmulos galácticos. El gran Atractor. Laniakea. El Universo Observable y el radio de Hubble. Homogeneidad e Isotropía.  
-* 14/16, U03C02P, 07/11/2018: Relatividad General, 1ra parte: fuerza de gravedad y fuerza eléctrica: una disquisición sobre las cargas. Masa gravitatoria versus masa inercial. Experimentos en una caja: caja en reposo, caja a velocidad constante, caja acelerada, caja en un campo gravitatorio. El principio de equivalencia. Diagramas de espacio tiempo. Espacio tiempo curvo. Corrimiento al rojo gravitatorio. Dilatación temporal.
-* 15/16, U04C01V, 14/11/2018: El big bang y cosmología inflacionaria: repaso y significado de la curvatura del espacio-tiempo, efecto doppler, efecto doppler relativista, corrimiento al rojo, medición del corrimiento al rojo de galaxias lejanas, la Ley de Hubble. 
-* 16/16, U04C02V, 21/11/2018: La expansión del Universo. Interpretación de la expansión. Teorías alternativas. El fondo de radiación de microondas: descubrimiento y significado. Comportamiento de la materia y la energía frente a la expansión. Densidad crítica. Observaciones cosmológicas. Materia y energía oscuras. Expansión acelerada.  
-* 17/16, U04C03V, 24/11/2018: Evolución térmica del Universo: temperatura y tiempo, procesos, recombinación, nucleosínstesis primogenia, modelo cosmológico, evolución del universo: pasado, presente y futuro. Eras cosmológicas. El fin? - Charlas de cierre.  
--->
+| **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
+| :---:     | :---:         | :---:     | :---:     | :---           |
+| U01C01 - 01/16 | Virtual | 05/Ago/20 | 19:00-23:00 | Breve repaso de relatividad. Dinámica relativista: tiempo propio, cantidad de movimiento, energía. Invariantes relativistas. Sistemas de unidades. |
+| U01C02 - 02/16 | Virtual | 12/Ago/20 | 19:00-23:00 | Relatividad y cuántica, el mar de dirac, materia y antimateria. Electrones y positrones. El muón. Átomos radiactivos. El decaimiento beta. El neutrino. El muón. Leptones y antileptones. Leyes de conservación. Números leptónicos. | 
+| U01C03 - 03/16 | Virtual | 19/Ago/20 | 19:00-23:00 | Hadrones, bariones y mesones. Número bariónico. Los nucleones y antinucleones. Modelo de Yukawa. Mesones de intercambio. Los piones. El camino óctuple, 1. Modelo de quarks. Up, Down, Extraño y Encanto. El camino óctuple, 2. El color. Mediadores de color. Los gluones. Intercambio de color y la interacción fuerte. |
+| U01C04 - 04/16 | Virtual | 26/Ago/20 | 19:00-23:00 | PDG (Particle Data Group). El camino óctuple (repaso). Intercambio de color como interacción fuerte (repaso). Yukawa como intercambio de gluones. La interacción débil. Bosones W+, W- y Z0. Vértices débiles. Interacciones de corrientes neutras y cargadas. El decaimiento beta-, el decaimiento del muón, el decaimiento del pión, el decaimiento extraño. Paridad y violación de paridad. Ángulo de Cabibbo. Tercera generación: quarks t y b, leptón tau y neutrino tau. Matriz CKM (Cabibbo-Kobayashi-Maskawa). El bosón de Higgs y la masa. El gravitón. El modelo estándar. |
+|        |         |               |             | **Fin unidad 01** |
+| U02C01 - 05/16 | Virtual | 02/Sep/20 | 19:00-23:00 | Estrellas. Generalidades e introducción. El cielo del Sur. La constelación de Orión. Flujo, brillo y magnitud. Magnitud aparente y magnitud absoluta. Estrellas y cuerpos negros. Canal B-V. Espectros estelares. Clasificación espectral. Luminosidad estelar. Relación masa-luminosidad. Ley stefan boltzmann y la relación Luminosidad-Temperatura-Radio. Supergigantes. Tamaños estelares. |
+| U02C02 - 06/16 | Virtual | 09/Sep/20 | 19:00-23:00 | Función radio-luminosidad. Tamaños estelares. Diagrama de Hertzsprung-Russell y clasificación estelar. La secuencia principal. Estrellas supermasivas, 1. Modelo estelar politrópico. |
+| U02C03 - 07/16 | Virtual | 16/Sep/20 | 19:00-23:00 | Modelo estelar politrópico. Estrellas supermasivas, 2. Limite de Eddington. Fusión nuclear. Pico de Gamow. Procesos de fusión. |
+| U02C04 - 08/16 | Virtual | 23/Sep/20 | 19:00-23:00 | Fusión nuclear. Pico de Gamow. Procesos de fusión. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. Procesos triple-alfa. Evolución estelar. Muerte estelar: Objetos compactos, 1era parte (enanas blancas, superovas, estrellas de neutrones y agujeros negros). Nebulosas: definición y clasificación. Tipos de nebulosas. Catálogos: Mesier y NGC.|
+| U02C05 - 09/16 | Virtual | 30/Sep/20 | 19:00-23:00 | Sistemas planetarios. Leyes de Kepler. Parámetros orbitales. Ecuación "vis-viva". Órbitas planetarias. Sistema Solar. Formación. Discos protoplanetarios. Temperatura Orbital y Zona de Habitabilidad. Exoplanetas. |
+| U02C05 - 10/16 | Virtual | 07/Oct/20 | 19:00-23:00 | Exoplanetas, 2. Astrobiología. Vida en el Universo. el ADN y el código genético. SETI. El mensaje de Arecibo. Ecuación de Drake. Esferas de Dyson. |
+|        |         |               |             | **Fin unidad 02** |
+| U03C01 - 11/16 | Virtual | 14/Oct/20 | 19:00-23:00 | Galaxias. Estructura de las galaxias. Curvas de rotación. Galaxias y Materia Oscura. Características observacionales. Clasificación. Andrómeda. La Vía Láctea. GalaxyZoo |
+| U03C02 - 12/16 | Virtual | 21/Oct/20 | 19:00-23:00 | Galaxias Activcas. Características observacionales. Clasificación. La Vía Láctea. Andrómeda. El grupo local. Cúmulos y supercúmulos de galaxias. Atractores. Estructura a gran escala del Universo. Simulación Millenium. El Universo Observable |
+| U03C03 - 13/16 | Virtual | 28/Oct/20 | 19:00-23:00 | Degeneración de Fermi. Degeneración electrónica. Enanas blancas: no relativista y relativista. Binaria de contacto. Novas. Límite de Chandrasekhar. Supernovas tipo 1A. Degeneración neutrónica. Supernovas tipo 2. Estrellas de neutrones. Púlsares. Límite de Tolman-Oppenheimer-Volkoff. Estrellas de Quarks. Agujeros Negros. Radio de Schwarzschild y horizonte de sucesos. Lentes gravitacionales. Distorciones gravimétricas y efectos ópticos. Disco de acreción. Agujero negro realista. Agujero negro real.|
+|        |         |               |             | **Fin unidad 03** |
+| U04C01 - 14/16 | Virtual | 04/Nov/20 | 19:00-23:00 | Relatividad General, 1ra parte: fuerza de gravedad y fuerza eléctrica: una disquisición sobre las cargas. Masa gravitatoria versus masa inercial. Experimentos en una caja: caja en reposo, caja a velocidad constante, caja acelerada, caja en un campo gravitatorio. El principio de equivalencia. Diagramas de espacio tiempo y líneas de Universo. Espacio tiempo curvo. Efecto doppler relativista. Analogía lanzamiento de pelotitas a intervalos constantes. Corrimiento al rojo. La Ley de Hubble-Lemaitre. El Universo en expansión. Analogía del biscochuelo.|
+| U04C02 - 15/16 | Virtual | 11/Nov/20 | 19:00-23:00 | Relatividad General, 2da parte: el espacio tiempo curvo, líneas geodésicas, interpretación del principio de equivalencia, lentes gravitacionales: Sistemas Abel, Cruces y Anillos de Einstein. El Universo en expansión. Analogía del Globo. El principio cosmológico. Solución de FRWL y el modelo cosmológico estándar. Nucleosíntesis del big bang. Modelo de Alpher-Bethe-Gamow. Fondo cósmico de microondas. Descripción y generalidades. Relación con el Big Bang. Densidad crítica. El parámetro Omega. Densidad de materia y energía del Universo. Materia y Energía frente a la expansión. El corrimiento al rojo cosmológico. Materia y Energía Oscura.|
+| U04C03 - 16/16 | Virtual | 18/Nov/20 | 19:00-23:00 | Relatividad General, 3ra parte: solución de FRWL, el factor de escala. Relación con el parámetro de Hubble. La forma del Universo: curvatura del espacio tiempo, finictud y conectivad. Expansión acelerada. El modelo cosmológico actual. Modelo L-CDM. Historia térmica del Universo: expansión, temperatura y tiempo; nucleosíntesis, desacople, recombinación, evolución del universo: pasado, presente y futuro. Eras cosmológicas. El fin del Universo? |
+|        |         |               |             | **Fin unidad 02** |
+|        |         |               |             | **Fin del curso** |
 
-### Sobre las clases:
 
-Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descárguelo siguiendo este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. 
+# Sobre las clases:
 
-En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. 
+Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descárguelo siguiendo este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
-Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
+# Licencia
 
-### Licencia
-**Física IV B (IPAC: Introducción a Partículas, Astrofísica y Cosmología)**, (c) por Hernán Asorey, 2016, 2017, 2018, 2019.
+**Física IV B (IPAC: Introducción a Partículas, Astrofísica y Cosmología)**, (c) por Hernán Asorey, 2016, 2017, 2018, 2019, 2020.
 <br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 <br />Este trabajo se distribuye en forma gratuita bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>. Debería haber recibido una copia de la licencia junto con este trabajo [cc-by-nc-sa-40-legalcode.txt](https://gitlab.com/asoreyh/unrn-ipac/blob/master/cc-by-nc-sa-40-legalcode.txt). En su defecto, visite <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a>.
