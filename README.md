@@ -28,15 +28,15 @@ Los contenidos mínimos establecidos por el [Plan de Estudios vigente de la carr
 
 "Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo" -- <cite>Benjamín Franklin</cite>
 
-La propuesta metodológica se basa en tres ejes principales que apuntan a favorecer y estimular la realización de un aprendizaje significativo y la interacción entre pares estudiantes y con la cátedra, combinando dos de ellos para estimular el trabajo grupal: clase invertida junto con una adaptación del [aprendizaje basado en retos](https://observatorio.tec.mx/edutrendsabr) y los [entornos de aprendizaje auto-organizados](https://www.educacionresponsable.org/web/contenidos-abiertos/sole-entornos-de-aprendizaje-autoorganizado.html) (self-organizing learning environment, SOLE). Se pueden ver más detalles en la [presentación del curso](encuentros/).
+La propuesta metodológica se basa en tres ejes principales que apuntan a favorecer y estimular la realización de un aprendizaje significativo y la interacción entre pares estudiantes y con la cátedra, combinando dos de ellos para estimular el trabajo grupal: clase invertida junto con una adaptación del [aprendizaje basado en retos](https://observatorio.tec.mx/edutrendsabr) y los [entornos de aprendizaje auto-organizados](https://www.educacionresponsable.org/web/contenidos-abiertos/sole-entornos-de-aprendizaje-autoorganizado.html) (self-organizing learning environment, SOLE). Se pueden ver más detalles en la [presentación del curso](encuentros/fisica4b-00-presentacion.pdf).
 
 # Programa
 
 Se ajusta al [Calendario Académico de la UNRN 2022-2023](https://www.unrn.edu.ar/section/47/calendario-academico.html)
 
-## [Programación semanal]
+## [Programación semanal](encuentros/)
 
-01. Exoplanetas
+01. [Exoplanetas](encuentros/fisica4b-01-exoplanetas.pdf)
 02. Astrobiología
 03. Estrellas
 04. Modelo politrópico
