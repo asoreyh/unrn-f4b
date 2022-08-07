@@ -36,7 +36,7 @@ Se ajusta al [Calendario Académico de la UNRN 2022-2023](https://www.unrn.edu.a
 
 ## [Programación semanal](encuentros/)
 
-01. [Exoplanetas](encuentros/fisica4b-01-exoplanetas.pdf)
+01. 09/Ago: [Exoplanetas](encuentros/fisica4b-01-exoplanetas.pdf)
 02. Astrobiología
 03. Estrellas
 04. Modelo politrópico
