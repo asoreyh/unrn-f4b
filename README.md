@@ -1,60 +1,59 @@
 ![Banner](materiales/banner.png)
 
-# Física IV B (B5330) - Astrofísica y Cosmología (B5300) 
+# Física IV B (B5330) - Introducción a Partículas, Astrofísica y Cosmología (B5330, B5297) 
 
 **Asignatura de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
 **Dr. Hernán Asorey**
 ***Departamento Física Médica, Centro Atómico Bariloche, Av. E. Bustillo 9500, (8400) San Carlos de Bariloche, Argentina***
 
-[[_TOC_]]
-
 ## Objetivos
-Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula de escuelas medias
+
+Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula. Revisar y profundizar algunos de los conceptos desarrollados en Física IA
 
 ## Fundamentación
 
-Representa un intento por exponer aspectos de la física que normalmente no se presentan en cursos de cuarto año de profesorados en física, con el objeto de brindar a los futuros docentes conocimientos y herramientas que les permitan abordar en la escuela media, temas actuales. La física de este curso incluye tópicos de la física contemporánea con contenidos que desde que se tiene conocimiento fascinan e interesan al hombre como el del origen del universo, el funcionamiento y el destino del Universo. Se introducen contenidos de física moderna como el modelo estándar de las partículas fundamentales, la radiactividad,  la relatividad especial y general y el modelo estándar cosmológico (Plan vigente).
+Construir junto con los y las estudiantes aquellos aspectos de la física de partículas, astrofísica y cosmología con el objeto de desarrollar junto a los y las futuros profesores aquellos conocimientos y herramientas que les permitan abordar temas actuales desde un enfoque constructivista en el aula. 
+En este curso exploraremos los inicios del universo, su funcionamiento y sus posibles destinos, el modelo estándar de partículas y sus interacciones y el modelo cosmológico.
 
 ## Propósitos de la asignatura
 
-Construir junto con los y las estudiantes los modelos que rigen al universo, y su importancia, y los efectos indirectos que pueden observarse en el mundo cotidiano. Que los y los estudiantes comprendan como la física abarca desde los sucesos que rigen las interacciones fundamentales hasta la estructura del Universo a las escalas más grandes, produciendo herramientas para facilitar la implementación en el aula de escuelas medias.
+Construir juntos los modelos que rigen al universo, y su importancia, y los efectos indirectos que pueden observarse en el mundo cotidiano. Que ustedes comprendan como la física abarca desde los sucesos que rigen las interacciones fundamentales hasta la estructura del Universo a las escalas más grandes, produciendo herramientas para facilitar la implementación en el aula.
 
 ## Contenidos mínimos
 
-Los contenidos mínimos establecidos por el [Plan de Estudios vigente de la carrera](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/Plan%20de%20Estudios%20-%20Profesorado%20de%20Ensenanza%20en%20Nivel%20Medio%20y%20Superior%20en%20Fisica%20-%20Sede%20Andina.pdf) para este curso son los siguientes: 
-
-Partículas fundamentales, astrofísica y cosmología- Partículas fundamentales y sus interacciones: leptones, hadrones y partículas mensajeras. Antipartículas. El modelo estándar. Aceleradores de partículas. Estrellas y galaxias. Evolución de las estrellas en nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del Universo
+Los contenidos mínimos establecidos por el [Plan de Estudios vigente de la carrera](https://gitlab.com/asoreyh/unrn-ipac/blob/master/materiales/Plan%20de%20Estudios%20-%20Profesorado%20de%20Ensenanza%20en%20Nivel%20Medio%20y%20Superior%20en%20Fisica%20-%20Sede%20Andina.pdf) para este curso son los siguientes: *Partículas fundamentales y sus interacciones: leptones, hadrones y partículas mensajeras. Antipartículas. El modelo estándar. Aceleradores de partículas. Estrellas y galaxias. Evolución de las estrellas en nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del Universo.*
 
 ## Propuesta metodológica
 
-Las clases serán interactivas, con amplio espacio para la discusión de los conceptos claves de la materia. Se realizarán demostraciones y prácticas de laboratorio con los equipos disponibles y con elementos de bajo costo. En todos los casos se abordará la problemática planteada desde un modelo constructivista. Las clases incluirán instancias de trabajo virtual para prácticas de incorporación de herramientas de tecnologías de información y comunicación (TIC) en la enseñanza de las ciencias.
+"Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo" -- <cite>Benjamín Franklin</cite>
+
+La propuesta metodológica se basa en tres ejes principales que apuntan a favorecer y estimular la realización de un aprendizaje significativo y la interacción entre pares estudiantes y con la cátedra, combinando dos de ellos para estimular el trabajo grupal: clase invertida junto con una adaptación del [aprendizaje basado en retos](https://observatorio.tec.mx/edutrendsabr) y los [entornos de aprendizaje auto-organizados](https://www.educacionresponsable.org/web/contenidos-abiertos/sole-entornos-de-aprendizaje-autoorganizado.html) (self-organizing learning environment, SOLE). Se pueden ver más detalles en la [presentación del curso](encuentros/).
 
 # Programa
 
-Se ajusta al [Calendario Académico de la UNRN 2021-2022](https://www.unrn.edu.ar/section/47/calendario-academico.html)
+Se ajusta al [Calendario Académico de la UNRN 2022-2023](https://www.unrn.edu.ar/section/47/calendario-academico.html)
 
-## Primer módulo
+## [Programación semanal]
 
-### [Unidad 1: Lo más pequeño](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u01)
+01. Exoplanetas
+02. Astrobiología
+03. Estrellas
+04. Modelo politrópico
+05. Fusión estelar
+06. Evolución estelar
+07. Relatividad general (1ra parte) y objetos compactos
+08. Galaxias y la estructura a gran escala del universo
+09. Antimateria y leptones
+10. Interacción fuerte
+11. Interacción débil
+12. Modelo estándar 
+13. Relatividad general (2da parte) y el universo en expansión
+14. Fondo cósmico de microondas y el modelo cosmológico estándar
+15. Bariogénesis e historia térmica del universo.
+16. Revisión del curso y cierre
 
-Dinámica Relativista. Física de partículas. Ley de Planck. Partículas fundamentales: leptones, hadrones, bosones mensajeros. El modelo estándar. Interacciones fundamentales. Simetrías y leyes de conservación
-
-### [Unidad 2: Escalas intermedias](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u02)
-
-Estrellas. Modelos politrópico. La fusión nuclear estelar. Clasificación estelar. Diagrama H-R. Evolución estelar. Nebulosas. Planetas y exoplanetas. El sistema Solar. Exoplanetas. Vida en el Universo: Astrobiología.
-
-## Segundo módulo
-
-### [Unidad 3: Escalas grandes](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u03)
-
-Relatividad General. Introducción y conceptos básicos. Solución de Schwarzschild. Objetos compactos: enanas blancas, estrellas de neutrones y agujeros negros. Formación de estructuras. Galaxias: Modelos y formación. GalaxyZoo. Galaxias de Núcleos activos. Clasificación. Formación de estructuras. Corrimiento al rojo y el universo en expansión.
-
-### [Unidad 4: Lo más grande](https://gitlab.com/asoreyh/unrn-ipac/tree/master/clases/u04)
-
-Modelo cosmológico estándar. El fondo de microondas. Modelo de Friedman-Lemaître-Robertson-Walker. El Big Bang. Modelo de Alpher, Bethe & Gamow. Modelo LCDM. Historia térmica del universo. Épocas térmicas. Primeros segundos del universo. Evolución futura del universo. ¿El fin...?
-
-## Bibliografía obligatoria y complementaria
+## Bibliografía complementaria
 
 * An Introduction to Modern Astrophysics; Carrol Bradley and Ostille Dale; 2nd Edition; Addison Wesley; 2006; ISBN 9780805304022
 * Introduction to Elementary Particles; David Griffiths; 2nd Revised Edition; Wiley-VCH; 2008; ISBN 9783527406012
@@ -67,10 +66,8 @@ Modelo cosmológico estándar. El fondo de microondas. Modelo de Friedman-Lemaî
 * Juego [A slower speed of light](http://gamelab.mit.edu/games/a-slower-speed-of-light/), una visión de como se vería el mundo a velocidad cercanas a la velocidad de la luz; MIT Game Lab; 2013
 * [Stellarium](https://stellarium.org/es/), un planetario de código abierto, multiplataforma y gratuito, 2019
 
-## Evolución de la cursada
-
-### Horarios:
-* Miércoles 16:00 a 20:00.
+### Horarios encuentros sincrónicos:
+* Todos los martes a las 15:00.
 
 # Sobre las clases:
 
@@ -78,6 +75,6 @@ Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org
 
 # Licencia
 
-**Física IV B (IPAC: Introducción a Partículas, Astrofísica y Cosmología)**, (c) por Hernán Asorey, 2016, 2017, 2018, 2019, 2020, 2021.
+**Física IV B (IPAC: Introducción a Partículas, Astrofísica y Cosmología)**, (c) por Hernán Asorey, 2016, 2017, 2018, 2019, 2020, 2021, 2022.
 <br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 <br />Este trabajo se distribuye en forma gratuita bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>. Debería haber recibido una copia de la licencia junto con este trabajo [cc-by-nc-sa-40-legalcode.txt](https://gitlab.com/asoreyh/unrn-ipac/blob/master/cc-by-nc-sa-40-legalcode.txt). En su defecto, visite <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a>.
