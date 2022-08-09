@@ -26,7 +26,8 @@ Los contenidos mínimos establecidos por el [Plan de Estudios vigente de la carr
 
 ## Propuesta metodológica
 
-"Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo" -- <cite>Benjamín Franklin</cite>
+<cite>*"Dime y lo olvido, enseñame y recuerdo, involúcrame y lo aprendo"* -- Xun Kuang, circa -300, compilado en Xunzi, Liu Xiang, circa +820</cite>
+<cite>*"...Dime y lo olvido, enseñame y recuerdo, involúcrame y lo aprendo"* -- Ken Bain, What the best college teachers do</cite>
 
 La propuesta metodológica se basa en tres ejes principales que apuntan a favorecer y estimular la realización de un aprendizaje significativo y la interacción entre pares estudiantes y con la cátedra, combinando dos de ellos para estimular el trabajo grupal: clase invertida junto con una adaptación del [aprendizaje basado en retos](https://observatorio.tec.mx/edutrendsabr) y los [entornos de aprendizaje auto-organizados](https://www.educacionresponsable.org/web/contenidos-abiertos/sole-entornos-de-aprendizaje-autoorganizado.html) (self-organizing learning environment, SOLE). Se pueden ver más detalles en la [presentación del curso](encuentros/fisica4b-00-presentacion.pdf).
 
