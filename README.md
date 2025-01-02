@@ -7,6 +7,10 @@
 **Dr. Hernán Asorey**
 ***Departamento Física Médica, Centro Atómico Bariloche, Av. E. Bustillo 9500, (8400) San Carlos de Bariloche, Argentina***
 
+## Información importante
+
+Esta fue la última edición del curso, para la cuál se realizó un cambio metodológico basado en el concepto de aula invertida. Pueden encontrarse los contenidos de enfoques previos más tradicionales en las respectivos releases de acuerdo al año de dictada. Para una modalidad de enseñanza más tradicional, recomiendo utilizar los del release [curso2021](https://github.com/asoreyh/unrn-f4b/tree/curso2021).
+
 ## Objetivos
 
 Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula. Revisar y profundizar algunos de los conceptos desarrollados en Física IA
