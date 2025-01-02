@@ -9,7 +9,9 @@
 
 ## Información importante
 
-Esta fue la última edición del curso, para la cuál se realizó un cambio metodológico basado en el concepto de aula invertida. Pueden encontrarse los contenidos de enfoques previos más tradicionales en las respectivos releases de acuerdo al año de dictada. Para una modalidad de enseñanza más tradicional, recomiendo utilizar los del release [curso2021](https://github.com/asoreyh/unrn-f4b/tree/curso2021).
+Este commit correponde a la última edición del curso, correspondiente a la Cohorte 2022. Para esta edición se ensayó un cambio metodológico basado en el concepto de [aula invertida](https://es.wikipedia.org/wiki/Aula_invertida). Para enfoques previos más tradicionales, recomiendo recomiendo utilizar el release del [curso2021](https://github.com/asoreyh/unrn-f4b/tree/curso2021).
+
+Con este commit se da por cerrado el repositorio.
 
 ## Objetivos
 
