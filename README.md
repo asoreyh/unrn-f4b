@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/517647594.svg)](https://doi.org/10.5281/zenodo.14589521)
+
 ![Banner](materiales/banner.png)
 
 # Física IV B (B5330) - Introducción a Partículas, Astrofísica y Cosmología (B5330, B5297) 
